@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 
-.circles {
+.circle {
     perspective: 10px;
     height: 100vh;
     overflow-y: auto;
