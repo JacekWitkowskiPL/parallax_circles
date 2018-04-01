@@ -17,5 +17,10 @@ body{
     margin: 30vh 10vh 100vh;
 }
 
+.circle-2{
+    background-color: blue;
+    transform: translateZ(-10px) scale(2);
+    left: 30%;
+}
 
 
