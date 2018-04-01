@@ -33,6 +33,12 @@ body{
     left: 30%;
 }
 
+.circle-3{
+    background-color: red;
+    transform: translate(-5px) scale(1.5);
+    left: 50%;
+}
+
 
 
 
