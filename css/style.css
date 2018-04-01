@@ -20,6 +20,13 @@ body{
     margin: 30vh 10vh 100vh;
 }
 
+.circle-1{
+    background-color: orange;
+    transform: translateZ(0px);
+    left: 20%;
+}
+
+
 .circle-2{
     background-color: blue;
     transform: translateZ(-10px) scale(2);
