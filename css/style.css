@@ -2,6 +2,11 @@ body{
     margin: 0;
 }
 
+h1{
+    padding: 5% 5% 50%;
+    position: absolute;
+}
+
 .circles {
     perspective: 10px;
     height: 100vh;
